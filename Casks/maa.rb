@@ -1,6 +1,6 @@
 cask "maa" do
-  version "1.0.12"
-  sha256 "847872e78df53c643693d5c2435c607ccaaea0c59ceffc42875033cb321dcfba"
+  version "1.0.13"
+  sha256 "88c4b0bf48e286ad2be57e95984b2a81b537bb09013e81a626fd4e263023f194"
 
   url "https://github.com/w77sh/Maa/releases/download/v#{version}/Maa-#{version}-14-macOS.dmg"
   name "Maa"
