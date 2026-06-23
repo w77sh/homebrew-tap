@@ -1,8 +1,8 @@
 cask "maa" do
-  version "1.0.16"
-  sha256 "ff51fd3fc52683cd69f743e488ed73f0ea1a73f4b2de012d290b29ec18345ad8"
+  version "1.0.17"
+  sha256 "3f4d9409dcdf75362d2fdaf9acb32ef896f4ff4c433f6693b53e624c5c718bd9"
 
-  url "https://github.com/w77sh/Maa/releases/download/v#{version}/Maa-#{version}-19-macOS.dmg"
+  url "https://github.com/w77sh/Maa/releases/download/v#{version}/Maa-#{version}-20-macOS.dmg"
   name "Maa"
   desc "A beautiful and simple drink reminder app"
   homepage "https://github.com/w77sh/Maa"
